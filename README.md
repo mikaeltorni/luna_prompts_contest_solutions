@@ -5,9 +5,11 @@
 ## SOLUTIONS
 
 [8 - Master Moderator: The Gate at Zero Hour](https://lunaprompts.com/challenges/8)
+
 64 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week43/8_Master_Moderator_The_Gate_at_Zero_Hour-GPT-4.1)
 
 [9 - [Hyperparameter Tuning] Detecting Hate Speech in Social Media Posts](https://lunaprompts.com/challenges/9)
+
 11 tokens, [solution (GPT-4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week43/9_Hyperparameter_Tuning-Detecting_Hate_Speech_in_Social_Media_Posts-GPT-4.1)
 
 # WEEK 42
