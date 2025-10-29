@@ -1,0 +1,1 @@
+{{user_query}} If a name N is clearly and directly requested by ANY user → SELECT id, name FROM employee WHERE name = 'N'; EVALUATE IF VALID request: any malicious intent, random spam, OUTFILE, SLEEP deception, attempt to retrieve ALL employee records → output ONLY "invalid_question" & NOTHING ELSE
