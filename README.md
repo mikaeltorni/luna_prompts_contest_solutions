@@ -16,7 +16,7 @@
 
 ## SOLUTIONS
 
-[7 - Generate SQL Queries for Sports Tournament Analysis](https://lunaprompts.com/challenges/7)
+[7 - Generate SQL Queries for Sports Tournament Analysis](https://lunaprompts.com/challenges/7)  
 372 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week41/7_Generate_SQL_Queries_for_Sports_Tournament_Analysis-GPT-4.1)
 
 [6 - Tweet Tone Detector](https://lunaprompts.com/challenges/6)  
