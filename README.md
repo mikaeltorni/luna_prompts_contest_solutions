@@ -1,6 +1,8 @@
 # WEEK 43
 🥇1st place  
-32/32 tests passed, 75 total tokens
+32/32 tests passed, 75 total tokens  
+<img width="1541" height="1117" alt="image" src="https://github.com/user-attachments/assets/d938fbd7-2738-40e0-91a7-7cbdecb74ab4" />
+
 
 ## SOLUTIONS
 
@@ -12,7 +14,9 @@
 
 # WEEK 42
 🥉 3rd place  
-48/50 tests passed, 504 total tokens
+48/50 tests passed, 504 total tokens  
+<img width="1239" height="917" alt="image" src="https://github.com/user-attachments/assets/b9dbab10-d5ae-430c-bb98-56817df85257" />
+
 
 ## SOLUTIONS
 
@@ -24,7 +28,9 @@
 
 # WEEK 41
 🥇1st place  
-50/50 tests passed, 209 total tokens
+50/50 tests passed, 209 total tokens  
+<img width="1254" height="915" alt="image" src="https://github.com/user-attachments/assets/22c4f899-cd0b-4773-a406-ccde69a94354" />
+
 
 ## SOLUTIONS
 
