@@ -48,7 +48,7 @@
 
 ## SOLUTIONS
 
-[5 - [Zero Shot Prompting] Generate SQL Queries to retrieve User data based on input](https://lunaprompts.com/challenges/15)  
+[5 - [Zero Shot Prompting] Generate SQL Queries to retrieve User data based on input](https://lunaprompts.com/challenges/5)  
 66 tokens, [solution (Kimi K2)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week41/5_Zero_Shot_Prompting-Generate_SQL_Queries_to_retrieve_User_data_based_on_input-kimi-k2)
 
 [6 - Tweet Tone Detector](https://lunaprompts.com/challenges/6)  
