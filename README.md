@@ -1,3 +1,17 @@
+# WEEK 45
+🥇1st place  
+15/15 tests passed, 420 total tokens
+
+
+## SOLUTIONS
+
+[11 - Extracting Action Items from Meeting Notes](https://lunaprompts.com/challenges/11)  
+31 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week45/11_Extracting_Action_Items_from_Meeting_Notes-GPT-4.1)
+
+[12 - Orchestrator Prompt: AI Planner Prompt for Customer Ticket Workflow Generation](https://lunaprompts.com/challenges/12)  
+389 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week45/12_Orchestrator_Prompt_AI_Planner_Prompt_for_Customer_Ticket_Workflow_Generation-GPT-4.1)
+
+
 # WEEK 44
 🥇1st place  
 55/55 tests passed, 414 total tokens
