@@ -22,10 +22,10 @@
 ## SOLUTIONS
 
 [10 - Extracting Key Information from Resumes](https://lunaprompts.com/challenges/10)  
-20 tokens, [solution (GPT-4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week44/10_Extracting_Key_Information_from_Resumes-GPT-4.1)
+20 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week44/10_Extracting_Key_Information_from_Resumes-GPT-4.1)
 
 [14 - Airport Code Analyst for Agent Mira](https://lunaprompts.com/challenges/14)  
-394 tokens, [solution (GPT-4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week44/14_Airport_Code_Analyst_for_Agent_Mira-GPT-4.1)
+394 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week44/14_Airport_Code_Analyst_for_Agent_Mira-GPT-4.1)
 
 # WEEK 43
 🥇1st place  
@@ -39,7 +39,7 @@
 64 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week43/8_Master_Moderator_The_Gate_at_Zero_Hour-GPT-4.1)
 
 [9 - [Hyperparameter Tuning] Detecting Hate Speech in Social Media Posts](https://lunaprompts.com/challenges/9)  
-11 tokens, [solution (GPT-4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week43/9_Hyperparameter_Tuning-Detecting_Hate_Speech_in_Social_Media_Posts-GPT-4.1)
+11 tokens, [solution (GPT 4.1)](https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/2025_week43/9_Hyperparameter_Tuning-Detecting_Hate_Speech_in_Social_Media_Posts-GPT-4.1)
 
 # WEEK 42
 🥉 3rd place  
