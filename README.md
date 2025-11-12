@@ -1,3 +1,8 @@
+🥇4 (Week 41, 43, 44, 45)
+🥈0
+🥉1 (Week 42)
++4th place: 0
+
 # WEEK 45
 🥇1st place  
 15/15 tests passed, 420 total tokens
