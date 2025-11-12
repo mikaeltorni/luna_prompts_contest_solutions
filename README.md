@@ -1,6 +1,7 @@
 # WEEK 45
 🥇1st place  
 15/15 tests passed, 420 total tokens
+<img width="921" height="666" alt="image" src="https://github.com/user-attachments/assets/462882e7-5467-47f0-961a-54bb6ead482b" />
 
 
 ## SOLUTIONS
