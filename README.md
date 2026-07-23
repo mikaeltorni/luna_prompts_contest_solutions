@@ -1,3 +1,21 @@
+# LunaPrompts Contest — Winning Prompt Engineering Solutions
+
+Winning and podium **prompt engineering** solutions for the weekly
+[LunaPrompts](https://lunaprompts.com/contests) contests, with the exact prompts,
+the models used (mostly **GPT-4.1**, plus **Kimi K2**), test pass rates, and
+**token counts** for each challenge. Useful as a reference for writing
+**token-efficient, high-accuracy prompts** for tasks like data extraction,
+classification, SQL generation, and content moderation.
+
+> Use these as an aid if you get stuck on a challenge — for learning, not to
+> copy/cheat (the same contest prompts shouldn't repeat anymore). Thanks!
+
+**Topics:** prompt-engineering · llm · gpt-4.1 · kimi-k2 · prompt-optimization ·
+token-efficiency · lunaprompts · prompt-challenges · few-shot-prompting ·
+zero-shot-prompting
+
+## 🏆 Results summary
+
 🥇4 (Week 41, 43, 44, 45)  
 🥈0  
 🥉1 (Week 42)  
