@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use LunaPrompts Contest Solutions, please cite this repository."
+title: "LunaPrompts Contest Solutions"
+type: dataset
+abstract: "luna_prompts_contest_solutions is a prompt reference that documents LunaPrompts contest solutions for people learning prompt engineering."
+authors:
+  - family-names: Torni
+    given-names: Mikael
+repository-code: "https://github.com/mikaeltorni/luna_prompts_contest_solutions"
+license: MIT
