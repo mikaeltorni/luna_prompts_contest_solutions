@@ -18,6 +18,19 @@ generation, and content moderation.
 token-efficiency · lunaprompts · prompt-challenges · few-shot-prompting ·
 zero-shot-prompting
 
+## Contents
+
+- [LunaPrompts Contest Solutions Features](#lunaprompts-contest-solutions-features)
+- [LunaPrompts Contest Solutions Results Summary](#lunaprompts-contest-solutions-results-summary)
+- [Week 45 — winning prompt solutions](#week-45--winning-prompt-solutions)
+- [Week 44 — winning prompt solutions](#week-44--winning-prompt-solutions)
+- [Week 43 — winning prompt solutions](#week-43--winning-prompt-solutions)
+- [Week 42 — third-place prompt solutions](#week-42--third-place-prompt-solutions)
+- [Week 41 — winning prompt solutions](#week-41--winning-prompt-solutions)
+- [Installation](#installation)
+- [Usage Examples](#usage-examples)
+- [Troubleshooting and FAQ](#troubleshooting-and-faq)
+
 ## Quickstart
 
 Clone the reference collection and list a recent solution directory:
@@ -31,7 +44,7 @@ find 2025_week45 -maxdepth 1 -type f | sort
 The repository is documentation and prompt examples; no package installation
 is required.
 
-## Features
+## LunaPrompts Contest Solutions Features
 
 - Exact contest prompts linked to their LunaPrompts challenge pages.
 - Recorded model, test-pass, placement, and token-count context where available.
@@ -40,7 +53,7 @@ is required.
 The related [Prompt Challenge Generator](https://github.com/mikaeltorni/prompt_challenge_generator)
 creates new promptfoo evaluation challenges from a theme.
 
-## Results summary
+## LunaPrompts Contest Solutions Results Summary
 
 🥇4 (Week 41, 43, 44, 45)  
 🥈0  
