@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mikaeltorni.github.io/luna_prompts_contest_solutions/sitemap.xml
