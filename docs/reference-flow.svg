@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">LunaPrompts contest solution reference flow</title>
+  <desc id="desc">Each LunaPrompts challenge is paired with an exact prompt solution and recorded model, test, placement, and token information in the weekly reference collection.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#57606a"/></marker>
+  </defs>
+  <rect width="1280" height="640" rx="28" fill="#f6f8fa"/>
+  <text x="640" y="70" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="700" fill="#24292f">Contest solution reference flow</text>
+  <rect x="45" y="248" width="235" height="145" rx="18" fill="#0969da"/>
+  <text x="163" y="305" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="white">Challenge</text>
+  <text x="163" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="white">LunaPrompts task</text>
+  <rect x="355" y="248" width="260" height="145" rx="18" fill="#ddf4ff" stroke="#0969da" stroke-width="3"/>
+  <text x="485" y="300" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#0550ae">Prompt solution</text>
+  <text x="485" y="337" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#24292f">exact stored example</text>
+  <rect x="690" y="225" width="270" height="190" rx="18" fill="#fff8c5" stroke="#bf8700" stroke-width="3"/>
+  <text x="825" y="278" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#7d4e00">Recorded context</text>
+  <text x="825" y="315" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#24292f">model and placement</text>
+  <text x="825" y="348" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#24292f">tests and token count</text>
+  <text x="825" y="383" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#57606a">weekly solution directory</text>
+  <rect x="1035" y="248" width="200" height="145" rx="18" fill="#1a7f37"/>
+  <text x="1135" y="305" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="white">Reference</text>
+  <text x="1135" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="white">learn and compare</text>
+  <line x1="280" y1="320" x2="347" y2="320" stroke="#57606a" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="615" y1="320" x2="682" y2="320" stroke="#57606a" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="960" y1="320" x2="1027" y2="320" stroke="#57606a" stroke-width="4" marker-end="url(#arrow)"/>
+</svg>

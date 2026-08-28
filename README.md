@@ -6,6 +6,8 @@
 
 luna_prompts_contest_solutions is a prompt reference that documents LunaPrompts contest solutions for people learning prompt engineering.
 
+![Diagram showing a LunaPrompts challenge becoming a stored prompt solution with model, test, placement, and token context](docs/reference-flow.svg)
+
 It records the exact prompts, models used (mostly **GPT-4.1**, plus **Kimi K2**),
 test pass rates, and token counts for each challenge. The collection is useful
 for studying token-efficient prompts for data extraction, classification, SQL
