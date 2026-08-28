@@ -1,0 +1,27 @@
+# LunaPrompts Contest Solutions
+
+Prompt engineering references documenting LunaPrompts contest solutions with
+models, test results, placements, and token counts.
+
+## Canonical pages
+
+- Documentation site: https://mikaeltorni.github.io/luna_prompts_contest_solutions/
+- Repository: https://github.com/mikaeltorni/luna_prompts_contest_solutions
+- README: https://github.com/mikaeltorni/luna_prompts_contest_solutions/blob/master/README.md
+- Contest index: https://lunaprompts.com/contests
+- Challenge index: https://lunaprompts.com/challenges
+- Latest solutions: https://github.com/mikaeltorni/luna_prompts_contest_solutions/tree/master/2025_week45
+- Reference diagram: https://mikaeltorni.github.io/luna_prompts_contest_solutions/reference-flow.svg
+
+## Quickstart
+
+```bash
+git clone https://github.com/mikaeltorni/luna_prompts_contest_solutions.git
+cd luna_prompts_contest_solutions
+find 2025_week45 -maxdepth 1 -type f | sort
+```
+
+## Scope
+
+This is a documentation and prompt-example collection, not the LunaPrompts
+website or a prompt execution service.
