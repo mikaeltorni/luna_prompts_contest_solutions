@@ -4,7 +4,7 @@ title: "LunaPrompts Contest Solutions"
 type: dataset
 abstract: "luna_prompts_contest_solutions is a prompt reference that documents LunaPrompts contest solutions for people learning prompt engineering."
 authors:
-  - family-names: Torni
+  - family-names: Törni
     given-names: Mikael
 repository-code: "https://github.com/mikaeltorni/luna_prompts_contest_solutions"
 license: MIT
